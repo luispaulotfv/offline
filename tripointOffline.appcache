@@ -1,25 +1,25 @@
 CACHE MANIFEST
-# 2017-05-01 v.1.0
+# 2017-05-02 v.1.0
 
 # Explicitly cached 'master entries'.
 CACHE:
 css/bootstrap.min.css
-images/P1-001.jpg
-images/P1-002.jpg
-images/P1-003.jpg
-images/P1-004.jpg
-images/P1-005.jpg
-images/P1-006.jpg
-images/P1-007.jpg
-images/P1-008.jpg
-images/P1-009.jpg
-images/P1-010.jpg
-images/P1-011.jpg
-images/P1-012.jpg
-images/P1-013.jpg
-images/P1-567.jpg
-images/P1-733.jpg
-images/P24-287_24728.jpg
+/offline/images/P1-001.jpg
+/offline/images/P1-002.jpg
+/offline/images/P1-003.jpg
+/offline/images/P1-004.jpg
+/offline/images/P1-005.jpg
+/offline/images/P1-006.jpg
+/offline/images/P1-007.jpg
+/offline/images/P1-008.jpg
+/offline/images/P1-009.jpg
+/offline/images/P1-010.jpg
+/offline/images/P1-011.jpg
+/offline/images/P1-012.jpg
+/offline/images/P1-013.jpg
+/offline/images/P1-567.jpg
+/offline/images/P1-733.jpg
+/offline/images/P24-287_24728.jpg
 js/data.json
 js/index.js
 index.html
